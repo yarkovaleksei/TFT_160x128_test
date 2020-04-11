@@ -1,5 +1,7 @@
 # TFT 160x128 1.77"
 
+[![Build Status](https://travis-ci.com/yarkovaleksei/TFT_160x128_test.svg?branch=master)](https://travis-ci.com/yarkovaleksei/TFT_160x128_test)
+
 <img src="images/tft1.jpeg" width="300" height="300">
 
 <img src="images/tft2.jpeg" width="300" height="300">
